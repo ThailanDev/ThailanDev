@@ -1,9 +1,9 @@
-### Olá! Eu sou o Thailan ✋🏼
+### Olá! Seja bem vindo ✋🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thailan-godoy-81a537148/)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521987189565)
 
+![Thailan GitHub stats](https://github-readme-stats.vercel.app/api?username=ThailanDev&show_icons=true&theme=transparent)
 
-![Thailan GitHub stats](https://github-readme-stats.vercel.app/api?username=ThailanDev&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
